@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunpy-contribution-statistics",
+  "versions": [
+    {
+      "commit": "aef818ebe504b38cf7e183850faad39feeedb49e",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:37:33.638215+00:00"
+    }
+  ]
+}
