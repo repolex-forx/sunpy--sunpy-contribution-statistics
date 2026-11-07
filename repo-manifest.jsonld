@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/sunpy/sunpy-contribution-statistics/commit/aef818ebe504b38cf7e183850faad39feeedb49e",
       "git:hexsha": "aef818ebe504b38cf7e183850faad39feeedb49e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T01:37:33.624491+00:00"
     }
   ]
 }
